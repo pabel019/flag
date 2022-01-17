@@ -67,6 +67,7 @@ ul {
     position: fixed;
     right: -100px;
     transition: 0.6s;
+    top: 18%;
 }
 
 .fb-img-1 img:hover {
@@ -83,7 +84,7 @@ ul {
     position: fixed;
     right: -100px;
     transition: 0.6s;
-    top: 30%;
+    top: 28%;
 }
 
 .fb-img-2 img:hover {
@@ -100,7 +101,7 @@ ul {
     position: fixed;
     right: -75px;
     transition: 0.6s;
-    top: 14%;
+    top: 38%;
 }
 
 .fb-img-3 img:hover {
@@ -117,7 +118,7 @@ ul {
     position: fixed;
     right: -100px;
     transition: 0.6s;
-    top: 7%;
+    top: 50%;
 }
 
 .fb-img-4 img:hover {
@@ -134,7 +135,7 @@ ul {
     position: fixed;
     right: -100px;
     transition: 0.6s;
-    top: 23%;
+    top: 60%;
 }
 
 .fb-img-5 img:hover {
@@ -151,7 +152,7 @@ ul {
     position: fixed;
     right: -100px;
     transition: 0.6s;
-    top: 37%;
+    top: 70%;
 }
 
 .fb-img-6 img:hover {
